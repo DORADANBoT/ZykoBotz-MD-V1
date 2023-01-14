@@ -50,21 +50,21 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true]
+['6281386943282', 'DitBotz', true],
+['6281386943282', 'DitBotz', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285715382503'
-global.nomorown = '6281386943282'
-global.nomorown1 = '6281386943282'
-global.nomorown2 = '6281386943282'
+global.nomorbot = '625830286046'
+global.nomorown = '6285763871819'
+global.nomorown1 = '6285763871819'
+global.nomorown2 = '6285763871819'
 global.nomorwa = '0'
-global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown = 'DitBotz'
 
 /*============== STAFF ==============*/
 /*global.owner = [
-  ['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+  ['6285763871819', 'DitzBotz', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
